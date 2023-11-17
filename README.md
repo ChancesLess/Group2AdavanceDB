@@ -1,2 +1,2 @@
 # Group2AdavanceDB
-School Project
+This repository is for members of Group 2 to successfully created this project
